@@ -18,8 +18,9 @@ export default {
     return {
       chartOptions: {
 
-          title: 'Energy UK Mix',
-          subtitle: 'Sales, Expenses, and Profit: 2014-2017'
+          'title': 'Energy UK Mix',
+          'subtitle': 'Sales, Expenses, and Profit: 2014-2017',
+          'height': 400,
 
       }
     }
